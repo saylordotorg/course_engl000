@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL000: Pre-College English"
+course_description: "An introductory course designed to improve your writing ability through the use of active reading and an understanding of the core components of effective writing."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Introductions and Conclusions** <span id="5"></span> 
 *We have come full circle in our writing lessons, and now you need to
 learn effective strategies to introduce and conclude your writing.

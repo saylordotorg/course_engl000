@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL000: Pre-College English"
+course_description: "An introductory course designed to improve your writing ability through the use of active reading and an understanding of the core components of effective writing."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Combining Ideas** <span id="2"></span> 
 *In the previous unit you mastered different pre-writing strategies.
 These strategies will help you discover information, but a paragraph

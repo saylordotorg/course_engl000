@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL000: Pre-College English"
+course_description: "An introductory course designed to improve your writing ability through the use of active reading and an understanding of the core components of effective writing."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Transitions and Summarization** <span id="4"></span> 
 *In both academic and professional writing, your goal is to convey
 information clearly and concisely, if not to convert the reader to your

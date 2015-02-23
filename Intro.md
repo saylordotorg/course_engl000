@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL000: Pre-College English"
+course_description: "An introductory course designed to improve your writing ability through the use of active reading and an understanding of the core components of effective writing."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "ENGL000: Pre-College English"
 --------------------------------------------------
 

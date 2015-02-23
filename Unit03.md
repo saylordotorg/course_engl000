@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL000: Pre-College English"
+course_description: "An introductory course designed to improve your writing ability through the use of active reading and an understanding of the core components of effective writing."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Making Inferences** <span id="3"></span> 
 In this unit, you will discover the importance of *making inferences*.
 Making inferences is a reading comprehension strategy that will help you

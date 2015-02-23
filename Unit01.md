@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL000: Pre-College English"
+course_description: "An introductory course designed to improve your writing ability through the use of active reading and an understanding of the core components of effective writing."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Active Reading** <span id="1"></span> 
 *You will begin this course by reviewing the benefits of active
 reading.* *Successful students—and successful readers—approach reading
